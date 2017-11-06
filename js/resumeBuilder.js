@@ -1,11 +1,11 @@
 /* bio section */
 var bio = {
-   "name": "Andre Larangeira",
+   "name": "Breno Rodrigues",
    "role": "Web Developer",
    "contacts": {
-      "email": "andre@gmail.com",
-      "mobile": "19983131932",
-      "github": "github.com/andremlarangeira",
+      "email": "abm.piracicaba@gmail.com",
+      "mobile": "19998665544",
+      "github": "github.com/BrenoSR",
       "location": "piracicaba, são paulo"
    },
    "bioPic": "images/fry.jpg",
@@ -120,11 +120,11 @@ var education = {
          "dates": "2010"
       },
       {
-         "name": "Faculdade Anhanguera",
+         "name": "Universidade Metodista piracicaba",
          "location": "piracicaba, são paulo",
          "degree": "bacharel",
-         "majors": "Ciencia da Computacao",
-         "dates": "2016"
+         "majors": "Tecnologia da Informacao",
+         "dates": "2015"
       }
    ],
    "onlineCourses": [
